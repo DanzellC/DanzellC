@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danzell Crowell</h1>
 <h3 align="center">I'm a electrical maintenance technician and aspiring software engineer</h3>
 
-- 🔭 I’m currently working on [Around The U.S.](https://github.com/DanzellC/se_project_aroundtheus)
+- 🔭 I’m currently working improving the functionality of the websites I've developed, making them even more dynamic and user-friendly. [Around The U.S.](https://github.com/DanzellC/se_project_aroundtheus)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanzellC](https://github.com/DanzellC)
 
