@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **danzell.crowell94@gmail.com**
 
-- ⚡ Fun fact i have 1 dog and two cats(cause you can't just have one cat lol) 🐕🐈🐈
+- ⚡ Fun Fact: I have 1 dog and two cats(cause you can't just have one cat lol) 🐕🐈🐈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
