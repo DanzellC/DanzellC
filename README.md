@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danzell Crowell</h1>
-<h3 align="center">I'm an electrical maintenance technician and aspiring software engineer</h3>
+<h3 align="center">I'm a electrical maintenance technician and aspiring software engineer</h3>
 
 - 🔭 I’m currently working on [Around The U.S.](https://github.com/DanzellC/se_project_aroundtheus)
 
